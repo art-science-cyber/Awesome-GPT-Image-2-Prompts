@@ -2925,6 +2925,37 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 **Source**  
 [@chetaslua](https://x.com/chetaslua/status/2044331451077013749)
 
+### Bumblebee Car Mode Industrial Design Breakdown Board
+
+![Bumblebee Car Mode Industrial Design Breakdown Board](https://cdn.gptimagine.org/prompt-library/bumblebee-car-mode-industrial-design-breakdown-board-20260511.jpeg)
+
+**Prompt**
+
+````text
+Create a single-page industrial design breakdown board for “Bumblebee car mode”.
+
+The image should look like a professional product design reference sheet and exploded technical diagram. Use a clean horizontal canvas with modular panels, callout lines, component labels, material swatches, and use-case illustrations.
+
+Include:
+- title panel with product name, purpose, target user, design concept, and key features
+- central exploded view showing all major components separated but aligned
+- orthographic views: front, side, back, top, and bottom
+- close-up detail studies of buttons, seams, ports, joints, textures, handles, fasteners, or mechanisms
+- material and finish board with swatches and surface notes
+- usage sequence showing 4 steps of operation
+- scale comparison with a hand or human silhouette
+- maintenance or production notes explaining assembly, durability, weak points, and design rules
+- one cinematic lifestyle render showing the product being used in context
+
+Style:
+premium industrial design presentation, realistic product rendering, precise annotations, clean studio lighting, technical but visually appealing.
+
+Use short readable English labels. Keep the layout professional, consistent, and legible.
+````
+
+**Source**  
+[GPT Imagine](https://x.com/gpt_image_2/status/2052403874783523207)
+
 
 ## edit
 
